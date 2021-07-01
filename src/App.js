@@ -13,6 +13,7 @@ function App({ headline, showLogos, backgroundImage }) {
       )}
 
       <h1>{headline}</h1>
+      <h2>Hello</h2>
 
       <div className="shape-container">
         <Shapes />
